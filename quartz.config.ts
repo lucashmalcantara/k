@@ -8,15 +8,13 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "🪴 Quartz 4.0",
+    pageTitle: "Hey! It's Lucas Alcântara's Digital Garden 🌱",
     enableSPA: true,
     enablePopovers: true,
-    analytics: {
-      provider: "plausible",
-    },
+    analytics: { provider: 'google', tagId: 'G-79BYQB6GDW' },
     locale: "en-US",
-    baseUrl: "quartz.jzhao.xyz",
-    ignorePatterns: ["private", "templates", ".obsidian"],
+    baseUrl: "lucashmalcantara.github.io/k",
+    ignorePatterns: ["private", "templates", ".obsidian", "_excalidraw", "_templates"],
     defaultDateType: "created",
     theme: {
       fontOrigin: "googleFonts",
