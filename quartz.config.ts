@@ -11,7 +11,10 @@ const config: QuartzConfig = {
     pageTitle: "Hey! It's Lucas Alcântara's Digital Garden 🌱",
     enableSPA: true,
     enablePopovers: true,
-    analytics: { provider: 'google', tagId: 'G-79BYQB6GDW' },
+    analytics: {
+      provider: 'google',
+      tagId: 'G-79BYQB6GDW'
+    },
     locale: "en-US",
     baseUrl: "lucashmalcantara.github.io/k",
     ignorePatterns: ["private", "templates", ".obsidian", "_excalidraw", "_templates"],
