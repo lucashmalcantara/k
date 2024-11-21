@@ -53,8 +53,19 @@ In this document, I will include all the content I believe is necessary to be pr
 	- [ ] Continuous Integration/Continuous Deployment (CI/CD)
 	- [ ] Docker
 	- [ ] Kubernetes
+- [ ] Cloud
+	- [ ] AWS
+		- [ ] EKS
+		- [ ] SQS and SNS
+		- [ ] Blob Storage (S3)
+		- [ ] RDS
+		- [ ] DynamoDB
+	- [ ] Azure
+		- [ ] AKS 
 - [ ] Tools and Technologies
 	- [ ] Message Brokers
+		- [ ] RabbitMQ
+		- [ ] Kafka
 	- [ ] Caching
 - [ ] .NET and C#
 	- [ ] What is the main difference between a value type and a reference type?
