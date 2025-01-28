@@ -19,7 +19,7 @@ Multithreading allows you to increase the responsiveness of your application and
 > **Thread**
 > A thread is the basic unit to which an operating system allocates processor time. A thread can execute any part of the program code, including parts currently being executed by another thread [[#2]].
 
-### Asynchronous programming using C\#
+## Asynchronous programming using C\#
 
 > **Check out this project where I implemented the practical use of Task in C#:** [lucashmalcantara/tap-csharp: Asynchronous programming with async and await using C#.](https://github.com/lucashmalcantara/tap-csharp)
 > 
