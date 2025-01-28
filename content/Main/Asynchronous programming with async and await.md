@@ -44,14 +44,14 @@ Console.WriteLine("eggs are ready");
 - Avoid Using [Task<>.Result ](https://learn.microsoft.com/en-us/dotnet/api/system.threading.tasks.task-1.result) on a Task. Accessing `Result` on a faulted task immediately rethrows the exception and skips over any subsequent code. Instead, `await` the task to handle the exception properly in an `async` context.
   
 ```csharp
-var sumTask = SumAsync(10, 15);
+var reportTask = GenerateReportAsync();
 
 // BAD
-await sumTask;
-Console.WriteLine(myTask.Result);
+await reportTask;
+Console.WriteLine(reportTask.Result);
 
 // GOOD
-var result = await sumTask;
+var result = await reportTask;
 Console.WriteLine(result);
 ```
 
