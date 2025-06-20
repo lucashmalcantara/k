@@ -8,7 +8,7 @@ tags:
 
 In this document, I will include all the content I believe is necessary to be prepared for job interviews for the position of senior software developer.
 
-## Roadmap
+## Roadmap (expected)
 
 - [ ] Principles of Software Development
 	- [ ] Programming Paradigms
@@ -84,6 +84,14 @@ In this document, I will include all the content I believe is necessary to be pr
 	- [ ] What is your education and professional experience?
 	- [ ] What values are most important to you in a work environment?
 
+
+## Roadmap (done)
+
+- Software Architecture
+	- [[Cloud Software Architect]]
+	- [[Multi Region Cloud Deployment (Multi-Region)]]
+	- [[Availability Zones - Isolation Zones (Multi-Zone)]]
+	- [[Load Balancing Pattern]]
 ## References
 
 ### 1
@@ -93,3 +101,7 @@ Ebazhanov. “c-sharp-quiz.md.” github.com. Accessed: Nov. 20, 2024. [Online.]
 ### 2
 
 Refactoring.Guru. “Design Patterns.” github.com. Accessed: Nov. 20, 2024. [Online.] Available: https://refactoring.guru/pt-br/design-patterns
+
+### 3
+
+Tavares. “Job na Gringa.” notion.so. Accessed: May. 24, 2025. [Online.] Available: https://www.notion.so/Job-na-Gringa-1d343c90146380469324d0037492ebc8
