@@ -92,6 +92,7 @@ In this document, I will include all the content I believe is necessary to be pr
 	- [[Multi Region Cloud Deployment (Multi-Region)]]
 	- [[Availability Zones - Isolation Zones (Multi-Zone)]]
 	- [[Load Balancing Pattern]]
+	- [[Pipes and Filters Pattern]]
 ## References
 
 ### 1

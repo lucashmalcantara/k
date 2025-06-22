@@ -9,7 +9,6 @@ tags:
 ---
 ## What problem does this pattern solve?
 
-
 **This pattern is used in scenarios where a single server cannot handle a high volume of requests and helps us improve application scalability and resilience.** When incoming traffic exceeds the CPU, memory, or network capacity of a single server, it will either crash or experience significant performance degradation. Upgrading the server hardware may not solve the problem — it will only delay it. Therefore, the solution is to distribute the incoming requests among multiple application instances. These instances typically run as identical copies of the same application on separate physical or virtual machines.
 
 
