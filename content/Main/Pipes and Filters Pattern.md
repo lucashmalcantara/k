@@ -32,4 +32,4 @@ Being part of a single application, the monolithic approach is limited because w
 
 ### 1
 
-Pogrebinsky. “Architect Large Scale Systems using Cloud Computing, Software Architecture Patterns & Modern System Design Principles.” github.com. Accessed: Jun. 19, 2025. [Online.] Available: https://www.udemy.com/course/the-complete-cloud-computing-software-architecture-patterns/learn/lecture/33360024?start=0#overview
+Pogrebinsky. “Architect Large Scale Systems using Cloud Computing, Software Architecture Patterns & Modern System Design Principles.” github.com. Accessed: Jun. 22, 2025. [Online.] Available: https://www.udemy.com/course/the-complete-cloud-computing-software-architecture-patterns/learn/lecture/30339028

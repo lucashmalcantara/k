@@ -93,6 +93,8 @@ In this document, I will include all the content I believe is necessary to be pr
 	- [[Availability Zones - Isolation Zones (Multi-Zone)]]
 	- [[Load Balancing Pattern]]
 	- [[Pipes and Filters Pattern]]
+	- [[Scatter Gather Pattern]]
+	- [[Execution Orchestrator Pattern]]
 ## References
 
 ### 1
